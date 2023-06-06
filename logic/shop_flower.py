@@ -37,11 +37,11 @@ class ShopFlower:
         else:
             return 0
 
-    # def get_max_price(bouquet):
-    #     max_price = max(bouquet)
+    # def get_max_price(flowers):
+    #     max_price = max(flowers)
     #     return max_price
-    # 
-    # def get_min_price(bouquet):
-    #     min_price = min(bouquet)
+    #
+    # def get_min_price(flowers):
+    #     min_price = min(flowers)
     #     return min_price
 
